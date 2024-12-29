@@ -16,10 +16,10 @@ timezone: America/Chicago
 
 title: Hussain Misbah # the main title
 
-tagline: Software Engineer and Technology Enthusiast with various IT Skills in Software Development/Architecture.
+tagline: Software Engineer and Technology Enthusiast.
 
 description: >- # used by seo meta and the atom feed
-  Hussain Misbah is a Software Engineer and Technology Enthusiast with various IT Skills in Software Development/Architecture.
+  Hussain Misbah is a Software Engineer and Technology Enthusiast with various IT Skills in Software Development / Architecture.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Hussain Misbah
-  email: example@domain.com # change to your email address
+  # email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/hmisbah # change to your Twitter homepage
