@@ -1,0 +1,35 @@
+---
+layout: post
+title: Pivotal Cloud Foundry (PCF) Migration to Kubernetes (k8s)
+date: '2019-11-06T19:53:00.001-06:00'
+author: Hussain Misbah
+tags: k8s, cloudfoundry, devops
+modified_time: '2019-11-06T19:53:00.001-06:00'
+---
+<div dir="ltr" style="text-align: left;" trbidi="on">
+  <a href="https://en.wikipedia.org/wiki/Cloud_Foundry">Pivotal Cloud Foundry (PCF)</a> is a cloud-native application
+  platform that simplifies the process of building, testing, deploying, and scaling applications. It supports continuous
+  delivery, allowing developers to deliver applications faster with higher productivity. PCF is known for its robust
+  security features, self-healing capabilities, and high availability. However, it was complex to setup and maintain.
+  Additionally, the licensing costs was very high.
+
+  In 2018, the company decided to replace PCF with Kubernetes (k8s). at that time I was already working on a
+  side-project utilizing <a href="https://v3-apidocs.cloudfoundry.org/">CF API</a> to capture inventory data. so I knew
+  some automation can be done. once I shared my work with my manager, he started digging further into how far we can
+  take this. It didn't take long time before realizing that we can automate almost the entire migration process!
+
+  A migration tool is built using .NET to automate the migration. main steps performed on each space:
+  <ul>
+    <li>collect all resources metadata</li>
+    <li>download PCF droplets which contains the app binary files</li>
+    <li>generate dockerfile based on the app buildpack (.NET, Java, static, ..etc)</li>
+    <li>build and push the docker image using the new dockerfile and binary artifact from droplet</li>
+    <li>capture apps secrets and replicate them to HashiCorp Vault</li>
+    <li>capture apps environment variables and replicate</li>
+    <li>generate and upload Helm chart with app variables and secrets key paths</li>
+    <li>deploy helm chart to k8s cluster for testing and validation</li>
+  </ul>
+
+  The migration tool reduced migration time from weeks to minutes per application. Additionally, reduced the Kubernetes
+  learning curve for development teams.
+</div>
