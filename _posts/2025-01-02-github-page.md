@@ -1,10 +1,8 @@
 ---
 layout: post
-title: 'New Year, New Beginnings: Launching My GitHub Pages Blog! 🚀'
+title: 'New Year, New Beginnings - Launching My GitHub Pages Blog!'
 date: '2025-01-02T20:25:00.000-05:00'
 author: hmisbah
-tags: 
-category:
 ---
 
 
