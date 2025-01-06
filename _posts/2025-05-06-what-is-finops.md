@@ -3,7 +3,7 @@ layout: post
 title: 'FinOps: Mastering Cloud Cost Optimization in the Modern Enterprise'
 date: '2025-05-06T09:04:00.000-05:00'
 author: hmisbah
-tags: ['finops', 'cloud-computing']
+tags: [finops, cloud-computing]
 category: Blogging
 ---
 ## What is FinOps
