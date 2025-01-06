@@ -3,8 +3,8 @@ layout: post
 title: 'FinOps: Mastering Cloud Cost Optimization in the Modern Enterprise'
 date: '2025-05-06T09:04:00.000-05:00'
 author: hmisbah
-tags: finops cloud-computing
-category: blog
+tags: ['finops', 'cloud-computing']
+category: Blogging
 ---
 ## What is FinOps
 FinOps is a blend of "Finance" and "DevOps," is an operational framework and cultural practice that maximizes the business value of cloud computing. It promotes collaboration between engineering, finance, and business teams to ensure financial accountability and data-driven decision-making.  
