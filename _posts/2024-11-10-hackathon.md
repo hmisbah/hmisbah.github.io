@@ -11,11 +11,11 @@ I am thrilled to share the journey of my team’s participation and wining first
 
 ![Hackathon Wining Team](/assets/img/hackathon-winners.png "Hackathon Wining Team")
 
-# The Challenge
+## The Challenge
 
 Our winning idea centered around automating and simplifying the onboarding process for a major platform. Access to this platform is governed by around 300 Active Directory (AD) Groups, making it a daunting task to determine the correct AD roles for onboarding new users. Recognizing this pain point, we set out to develop a solution that would streamline and automate this process.
 
-# The Solution
+## The Solution
 
 We successfully delivered a production-ready solution that wowed the judges and set us apart from other teams. What truly impressed the judges was our approach: rather than introducing a new application, we ingeniously leveraged three existing platforms:
 
@@ -27,7 +27,7 @@ We successfully delivered a production-ready solution that wowed the judges and 
 
 By integrating these platforms, we created a cohesive and efficient solution that not only simplified the onboarding process but also utilized resources already available within our organization.
 
-# The Experience
+## The Experience
 
 Participating in the hackathon was an incredible experience. It provided a unique opportunity to connect and collaborate closely with members of my department and business unit. We were able to explore new technologies and methodologies outside our usual focus areas, broadening our horizons and enhancing our skillsets.
 
