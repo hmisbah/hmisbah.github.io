@@ -56,6 +56,10 @@ webmaster_verifications:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
+google_site_verification: ""
+google_analytics:
+  id: "G-2NGR4745R7"
+
 # Web Analytics Settings
 analytics:
   google:
