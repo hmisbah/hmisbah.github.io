@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'FinOps, Mastering Cloud Cost Optimization in the Modern Enterprise'
-date: '2025-01-06T09:04:00.000-05:00'
+date: '2024-11-20T21:24:00.000-05:00'
 author: hmisbah
-tags: [finops, cloud-computing]
+tags: [finops, cloud-computing, it-certifications]
 category: blog
 ---
 ## What is FinOps
@@ -19,6 +19,6 @@ In today's digital landscape, cloud spending is a significant operational expens
 [FinOps Foundation](https://learn.finops.org) is a great resource to learn more about FinOps.  
 This is where I obatained my training and earned the [FinOps Certified Engineer](https://learn.finops.org/path/finops-certified-engineer) certification.  
 
-![FinOps Certified Engineer](/assets/img/finops-cert-eng-2.png "FinOps Certified Engineer")  
+![FinOps Certified Engineer](/assets/img/finops-cert-eng.png "FinOps Certified Engineer")  
 
 
