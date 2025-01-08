@@ -58,12 +58,12 @@ webmaster_verifications:
 
 google_site_verification: ""
 google_analytics:
-  id: "G-2NGR4745R7"
+  id: "G-DXD0K4XRF8"
 
 # Web Analytics Settings
 analytics:
   google:
-    id: "G-2NGR4745R7" # fill in your Google Analytics ID"
+    id: "G-DXD0K4XRF8" # fill in your Google Analytics ID"
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
