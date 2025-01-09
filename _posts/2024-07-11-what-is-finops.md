@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'FinOps, Mastering Cloud Cost Optimization in the Modern Enterprise'
-date: '2024-11-20T21:24:00.000-05:00'
+title: 'Certificate: FinOps Engineer'
+date: '2024-07-11T21:24:00.000-05:00'
 author: hmisbah
-tags: [finops, cloud-computing, it-certifications]
+tags: [finops, it-certifications]
 category: blog
 ---
 ## What is FinOps
